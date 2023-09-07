@@ -1,5 +1,5 @@
-### Hi there visitor👋
-I'm a very curious person, I've study so many languages aredy, however a realy loves JavaScript.
+### Olá! 👋
+Sinta-se a livre para entrar em contato!
 
 ![](https://komarev.com/ghpvc/?username=rafaelcitario&color=orange&label=%20%20%20%20VISITAS+EM+MEU+PERFIL%20%20%20%20)
 <!--
