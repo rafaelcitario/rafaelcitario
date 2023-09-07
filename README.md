@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there visitor👋
+I'm a very curious person, I've study so many languages aredy, however a realy loves JavaScript.
+![](https://komarev.com/ghpvc/?username=rafaelcitario&color=orange&label=%20%20%20%20VISITAS+EM+MEU+PERFIL%20%20%20%20)
 <!--
 **rafaelcitario/rafaelcitario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
