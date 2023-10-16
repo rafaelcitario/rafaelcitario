@@ -1,5 +1,4 @@
-### Olá! 👋
-Sinta-se a livre para entrar em contato!
+# [LinkedIN 👈](https://www.linkedin.com/in/rafaelcitario)
 
 ![](https://komarev.com/ghpvc/?username=rafaelcitario&color=orange&label=%20%20%20%20VISITAS+EM+MEU+PERFIL%20%20%20%20)
 <!--
