@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rafaelcitario)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafaelcitario/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/rafaelcitario/)
 [<img src="https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=outlook&logoColor=white" />](mailto:contato.rafaelgomes@outlook.com)
