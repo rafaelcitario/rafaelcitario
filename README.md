@@ -1,22 +1,19 @@
-![Visitantes](https://komarev.com/ghpvc/?username=rafaelcitario&color=orange&label=%20%20%20%20VISITAS+EM+MEU+PERFIL%20%20%20%20)
+
 <!--
 **rafaelcitario/rafaelcitario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcitario&hide_progress=true)
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rafaelcitario)
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/rafaelcitario/)
-[<img src="https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=outlook&logoColor=white" />](mailto:contato.rafaelgomes@outlook.com)
+Current stack
+- 🎉 - Main Language: Javascript
+- 🔨 - Backend: Node.js, Java, PHP
+- 🎲 - Data Base: SQLite, MySQL, H2, PostgreSQL
+- 🔧 - Frontend: React.js, HTML5, CSS3, Javascript, Styled Components, Tailwind
+- 🎨 - Layout Design: Figma
+- 🗃️ - Version Code Control: Git & Github
+- ⚗️ - Tools: Visual Studio Code, Intellij, Postman, Markdown
+Contact
+- 🗃️ - E-mail: [contato.rafaelgomes@outlook.com](mailto:contato.rafaelgomes@outlook.com)
+- 🐱‍🏍 - LinkedIn: [Rafael Citario](https://linkedin.com/in/rafaelcitario)
+- 🥇 - ![Visitantes](https://komarev.com/ghpvc/?username=rafaelcitario&color=orange&label=%20%20%20%20VISITAS+EM+MEU+PERFIL%20%20%20%20)
+  
