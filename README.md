@@ -1,11 +1,6 @@
+![Visitantes](https://komarev.com/ghpvc/?username=rafaelcitario&style=flat-square&color=brightgreen&label=voc%C3%AA%20%C3%A9%20o%20visitante%20de%20numero:) 
 
-<!--
-**rafaelcitario/rafaelcitario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-Current stack
+Skills
 - 🎉 - Main Language: Javascript
 - 🔨 - Backend: Node.js, Java, PHP
 - 🎲 - Data Base: SQLite, MySQL, H2, PostgreSQL
@@ -13,10 +8,7 @@ Current stack
 - 🎨 - Layout Design: Figma
 - 🗃️ - Version Code Control: Git & Github
 - ⚗️ - Tools: Visual Studio Code, Intellij, Postman, Markdown
-  
-Contact
+
+  Contact
 - 🗃️ - E-mail: [contato.rafaelgomes@outlook.com](mailto:contato.rafaelgomes@outlook.com)
 - 🐱‍🏍 - LinkedIn: [Rafael Citario](https://linkedin.com/in/rafaelcitario)
-  
-![Visitantes](https://komarev.com/ghpvc/?username=rafaelcitario&color=orange&label=%20%20%20%20VISITAS+EM+MEU+PERFIL%20%20%20%20)
-  
