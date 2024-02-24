@@ -1,4 +1,4 @@
-![Visitantes](https://komarev.com/ghpvc/?username=rafaelcitario&style=flat-square&color=brightgreen&label=voc%C3%AA%20%C3%A9%20o%20visitante%20de%20numero:) 
+![Visitantes](https://komarev.com/ghpvc/?username=rafaelcitario&style=flat-square&color=brightgreen&label=voc%C3%AA%20%C3%A9%20o%20visitante%20de%20número:) 
 
 Skills
 - 🎉 - Main Language: Javascript
