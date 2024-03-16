@@ -6,27 +6,27 @@
 
 ### Role
 
-- **mainLanguage**: Javascript, Typescript
-- **librariesAndFrameworks**: React.js, Node.js/Express Axios.js
-- **dataBase**: MySQL, SQLite, H2
-- **designPattern**: MVC
-- **others**: API REST, HTTP Methods, OOP, Agile Methods, Clean Code, Web Responsive, Software Engine Cycles
-- **packageManagers**: Npm, Yarn
+- **Main language**: Javascript, Typescript
+- **Libraries And Frameworks**: React.js, Node.js/Express Axios.js
+- **Data Base**: MySQL, SQLite, H2
+- **Design Pattern**: MVC
+- **More**: API REST, HTTP Methods, OOP, Agile Methods, Clean Code, Web Responsive, Software Engine Cycles
+- **Package Manager**: Npm, Yarn
 
 ### I've some knowledge about
 
 - **Languages**: PHP, Java
 - **Frameworks**: Svelte(js), SpringBoot(java)
-- **dataBase**: PostgreSQL, MongoDb
-- **clound**: AWS, GCP
-- **packageManagers**: Composer
+- **Data Base**: PostgreSQL, MongoDb
+- **Clound**: AWS, GCP
+- **Package Managers**: Composer
 
 ### Currently studying
 
 - **Laguages**: Typescript, PHP
 - **Frameworks**: Svelte, Laravel
 - **Tests**: Playwright
-- **DesignPatterns**,
+- **Design Patterns**,
 
 ### Educations
 
