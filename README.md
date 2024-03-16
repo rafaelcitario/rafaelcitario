@@ -4,16 +4,16 @@
 
 ## Júnior web developer
 
-### Role
+### Domain
 
 - **Main language**: Javascript, Typescript
-- **Libraries And Frameworks**: React.js, Node.js/Express Axios.js
+- **Libraries And Frameworks**: React.js, Node.js/Express Axios.js, Styled Components, Bootstrap, Tailwindcss, DaisyUI, CSS Module, EJS
 - **Data Base**: MySQL, SQLite, H2
 - **Design Pattern**: MVC
 - **More**: API REST, HTTP Methods, OOP, Agile Methods, Clean Code, Web Responsive, Software Engine Cycles
 - **Package Manager**: Npm, Yarn
 
-### I've some knowledge about
+### I've some knowledge about to
 
 - **Languages**: PHP, Java
 - **Frameworks**: Svelte(js), SpringBoot(java)
@@ -32,7 +32,7 @@
 
 #### bachelorsDegree
 
-- Analysis and systems development
+- Analise e Desenvolvimento de Sistemas
 
 #### courses
 
