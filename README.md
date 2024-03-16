@@ -1,6 +1,6 @@
 #
 
-![Visitantes](https://komarev.com/ghpvc/?username=rafaelcitario&style=flat-square&color=brightgreen&label=voc%C3%AA%20%C3%A9%20o%20visitante%20de%20número:)
+![Visitantes](https://komarev.com/ghpvc/?username=rafaelcitario&style=flat-square&color=yellow&label=voc%C3%AA%20%C3%A9%20o%20visitante%20de%20número:)
 
 ## Júnior web developer
 
