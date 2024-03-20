@@ -60,3 +60,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+<!-- Lista de dicas e artigos -->
+* Dicas e artigos:
+  + [Aprenda utilizar o eslint](https://github.com/rafaelcitario/como-usar-eslint/blob/master/README.MD)
+  + [Aprenda utilizar comandos Git](https://github.com/rafaelcitario/git-commands)
