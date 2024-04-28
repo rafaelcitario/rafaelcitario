@@ -54,10 +54,10 @@
 - **Mail**: [click to send me a e-mail](mailto:contato.rafaelgomes@outlook.com)
   - <contato.rafaelgomes@outlook.com>
 
-
+<!--
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+-->
 
 <!-- Lista de dicas e artigos -->
 * Dicas e artigos:
