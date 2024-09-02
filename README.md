@@ -1,4 +1,4 @@
-![Visitantes](https://komarev.com/ghpvc/?username=rafaelcitario&style=flat&color=yellow&label=🍪%20visitas%20em%20meu%20perfil%20%20:%20)
+![Visitantes](https://komarev.com/ghpvc/?username=rafaelcitario&style=flat&color=yellow&label=🍪%20Visitas%20ao%20meu%20perfil%20este%20mês:%20%20%20)
 <pre>
   <b>Dicas e artigos</b>
     + <a href="https://github.com/rafaelcitario/como-usar-eslint/blob/master/README.MD" target="_blank">Como utilizar ESLint</a>
